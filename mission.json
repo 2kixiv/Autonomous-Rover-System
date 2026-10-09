@@ -1,0 +1,14 @@
+{
+  "terrain": {
+    "width": 10,
+    "height": 5
+  },
+  "start": {
+    "x": 0,
+    "y": 0
+  },
+  "target": {
+    "x": 8,
+    "y": 3
+  }
+}
