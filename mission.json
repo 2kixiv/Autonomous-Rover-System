@@ -1,7 +1,10 @@
 {
   "terrain": {
     "width": 10,
-    "height": 5
+    "height": 5,
+    "obstacles": [
+      { "x": 3, "y": 0 }
+    ]
   },
   "start": {
     "x": 0,
